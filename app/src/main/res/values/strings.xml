@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assistant Keeper</string>
+    <string name="detect">Detect current</string>
+    <string name="target">Target: %s</string>
+    <string name="none">none</string>
+    <string name="tile_ok">OK</string>
+    <string name="tile_restored">Restored</string>
+    <string name="tile_no_root">No root</string>
+    <string name="tile_no_target">No target</string>
+</resources>
